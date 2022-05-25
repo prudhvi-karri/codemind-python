@@ -1,0 +1,1 @@
+print(*reversed(list(map(str,input().split()))))
